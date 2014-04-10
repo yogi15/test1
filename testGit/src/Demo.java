@@ -4,6 +4,6 @@ public class Demo {
 		
 		System.out.println("Eclipse to Git");
 		
-		System.out.println("Git to Eclipse");
+
 	}
 }
